@@ -82,7 +82,7 @@ I'm Software QA Engineer and Web3 Enthusiast with experience in Frontend, Backen
 
 &nbsp;
 <!-- ![Snake animation](https://github.com/audiansyah/audiansyah/blob/output/github-contribution-grid-snake-dark.svg) -->
-![Snake animation](https://github.com/audiansyah/audiansyah/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/audiansyah/.github/workflows/snake.yml)
 
 &nbsp;
 &nbsp;
