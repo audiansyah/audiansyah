@@ -51,8 +51,8 @@ I'm Software QA Engineer and Web3 Enthusiast with experience in Frontend, Backen
 <!--
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/audiansyahms/)  -->
 <!--
-- ![Static Badge](https://img.shields.io/badge/Antonio%20Rodriguez-eMail-red?link=mailto%3Aantonio%40rodriguezfarias.com)  
-- ![Static Badge](https://img.shields.io/badge/audiansyahms-LinkedIn-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Farodriguezfarias%2F) -->
+- ![Static Badge](https://img.shields.io/badge/Audiansyah%20Muhamad%20Syawalhan-eMail-red?link=mailto%3msaudiansyah%40gmail.com)  
+- ![Static Badge](https://img.shields.io/badge/audiansyahms-LinkedIn-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2audiansyahms%2F) -->
 
 <p align="left">
 <a href="https://www.linkedin.com/in/audiansyahms/">
@@ -65,19 +65,19 @@ I'm Software QA Engineer and Web3 Enthusiast with experience in Frontend, Backen
 
 &nbsp;
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniHub&layout=compact) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audiansyah&layout=compact) -->
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AntoniHub&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=audiansyah&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 </a> -->
 <!--
-[![GitHub Streak](https://streak-stats.demolab.com?user=AntoniHub&theme=vue-dark&hide_border=true&card_width=900)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=audiansyah&theme=vue-dark&hide_border=true&card_width=900)](https://git.io/streak-stats) -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AntoniHub&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=audiansyah&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 &nbsp;
 
 &emsp;&emsp;&emsp;&ensp; <a href="https://github.com/anuraghazra/convoychat">
-  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AntoniHub&layout=compact&langs_count=8&card_width=350&theme=vue-dark&hide_border=true" />
+  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=audiansyah&layout=compact&langs_count=8&card_width=350&theme=vue-dark&hide_border=true" />
 </a>
 
 &nbsp;
