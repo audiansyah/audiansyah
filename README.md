@@ -1,30 +1,34 @@
 # Hi, I'm Audiansyah! 👋
 
-I'm Software QA Engineer and Web3 Enthusiast with experience in Frontend, Backend, Continuous Integration, Databases (SQL and NoSQL), UX/UI, Mobile, Architecture, Linux / macOS / Windows testing.
+I'm Software Quality Assurance Engineer and Web3 Enthusiast with experience in API Developer, Software testing, IT Support, Web and Mobile Developer. Able to thoroughly test web-based and mobile applications to ensure quality and conformity to predetermined specifications. Able to analyze systems in the field of information systems and their application for research and system analysts. have skills in analysis and debugging, as well as an understanding of SDLC methodologies and testing tools such as Selenium and Postman.
+
+ I’m looking to collaborate on anything!.
 
 ![audiansyah's Stats](https://github-readme-stats.vercel.app/api?username=audiansyah&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 ## 🚀 About Me
 
-- 💡 Diploma in Information System at Telkom University
-- 📌 Continuous Testing with GitHub Actions
-- 📌 API Testing with Postman & Python
-- 📌 Frontend Testing with Selenium WebDriver
-- 📌 Backend Testing with Pytest, SQL & NoSQL
-- 📌 Mobile Testing with Android SDK & iOS
+- 💡 Diploma Information System at Telkom University.
+- 📌 1 year experience as an API Developer Intern, Experienced in REST and SOAP API integration, API testing with Postman, API Gateway API Authenticator, API transformation, and API Management using Axway API Management.
+- 📌 Experienced as a game tester and API tester. Have knowledge of manual and automation testing using selenium with java language, API testing using postman, functionality testing, and regression testing.
+- 📌 Experienced as IT Support. Have skills in IT Support, including troubleshooting hardware/software issues, network configuration, and user assistance.
+- 📌 A crypto and web3 enthusiast, I liked and entered the crypto market when I was still in high school at the end of 2019. And from 2022 until now I have always looked for new things and deepened my knowledge in blockchain technology to hone my skills in this field.
 
-## My Articles
-- [Personal Portfolio with my Skills]()
+## The position I'm interested
+- API Developer
+- Software Quality Assurance
+- IT Support
+- Blockchain Engineer
 
 
 ## Tech Stack
 <!-- [![My Skills](https://skillicons.dev/icons?i=py,selenium,firebase,gcp,azure,aws,kubernetes,postgres,linux,redhat,debian,ubuntu,bash,vim,jenkins,githubactions,github,git,docker,pycharm,vscode,postman,apple,androidstudio,windows,xd,stackoverflow,sklearn&perline=14)](https://skillicons.dev) -->
 
 ### Languages and Frameworks
-| Python | Selenium | Pytest | Pycharm |
-|----------|----------|----------|----------|
-| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg'> |
+| Python | Java | Selenium | Pytest | Pycharm | JavaScript
+|----------|----------|----------|----------|----------|----------|
+| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg'> |
 
 ### Browser Testing
 | Chrome | Safari | Mozilla | Edge | Opera | 
