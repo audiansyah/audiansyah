@@ -4,8 +4,6 @@ I'm Software Quality Assurance Engineer and Web3 Enthusiast with experience in A
 
  I’m looking to collaborate on anything!.
 
-![audiansyah's Stats](https://github-readme-stats.vercel.app/api?username=audiansyah&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 
 ## 🚀 About Me
 
@@ -69,22 +67,7 @@ I'm Software Quality Assurance Engineer and Web3 Enthusiast with experience in A
 
 &nbsp;
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audiansyah&layout=compact) -->
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=audiansyah&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-</a> -->
-<!--
-[![GitHub Streak](https://streak-stats.demolab.com?user=audiansyah&theme=vue-dark&hide_border=true&card_width=900)](https://git.io/streak-stats) -->
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=audiansyah&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
-&nbsp;
-
-&emsp;&emsp;&emsp;&ensp; <a href="https://github.com/anuraghazra/convoychat">
-  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=audiansyah&layout=compact&langs_count=8&card_width=350&theme=vue-dark&hide_border=true" />
-</a>
-
-&nbsp;
+![audiansyah's Stats](https://github-readme-stats.vercel.app/api?username=audiansyah&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 &nbsp;
 &nbsp;
