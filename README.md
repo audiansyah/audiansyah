@@ -60,7 +60,8 @@ I'm Software Quality Assurance Engineer and Web3 Enthusiast with experience in A
 <a href="https://www.linkedin.com/in/audiansyahms/">
   <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;
 <a href="mailto:msaudiansyah@gmail.com">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;
+  <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a> &nbsp;
 <a href="https://t.me/License29">
   <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> &nbsp;
 </p>
