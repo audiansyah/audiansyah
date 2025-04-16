@@ -8,7 +8,7 @@ I'm Software Quality Assurance Engineer and Web3 Enthusiast with experience in A
 ## 🚀 About Me
 
 - 💡 Diploma Information System at Telkom University.
-- 📌 1 year experience as an API Developer Intern, Experienced in REST and SOAP API integration, API testing with Postman, API Gateway API Authenticator, API transformation, and API Management using Axway API Management.
+- 📌 1 year experience as an software apolication development engineer intern with role API Developer, Experienced in REST and SOAP API integration, API testing with Postman, API Gateway API Authenticator, API transformation, and API Management using Axway API Management.
 - 📌 Experienced as a game tester and API tester. Have knowledge of manual and automation testing using selenium with java language, API testing using postman, functionality testing, and regression testing.
 - 📌 Experienced as IT Support. Have skills in IT Support, including troubleshooting hardware/software issues, network configuration, and user assistance.
 - 📌 A crypto and web3 enthusiast, I liked and entered the crypto market when I was still in high school at the end of 2019. And from 2022 until now I have always looked for new things and deepened my knowledge in blockchain technology to hone my skills in this field.
