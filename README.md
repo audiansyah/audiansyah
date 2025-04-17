@@ -1,22 +1,22 @@
 # Hi, I'm Audiansyah! 👋
 
-I'm Software Quality Assurance Engineer and Web3 Enthusiast with experience in API Developer, Software testing, IT Support, Web and Mobile Developer. Able to thoroughly test web-based and mobile applications to ensure quality and conformity to predetermined specifications. Able to analyze systems in the field of information systems and their application for research and system analysts. have skills in analysis and debugging, as well as an understanding of SDLC methodologies and testing tools such as Selenium and Postman.
+I'm Software Development Engineer and Web3 Enthusiast with experience in API Developer, Software testing, IT Support, Web and Mobile Developer. possessing a strong foundation in Software Quality Assurance, Database Administration, API Development and backend engineer, and IT Support. Experienced in API management, software testing, and IT infrastructure support, with hands-on experience in developing API Gateway Management, transforming REST and SOAP APIs, and implementing security policies. Skilled in manual and automation testing using Selenium, Postman, and Katalon, ensuring system functionality, performance, and security through structured testing and API lifecycle management, with a deep understanding of SDLC methodologies. Proficient in SQL, Python, JavaScript, and database management tools for data processing and administration. Passionate about ensuring system functionality, performance, and security through structured testing and API lifecycle management. Highly analytical, detail-oriented, and committed to continuous learning to drive efficiency and innovation in IT and software development.
 
  I’m looking to collaborate on anything!.
 
 
 ## 🚀 About Me
 
-- 💡 Diploma Information System at Telkom University.
-- 📌 1 year experience as an software apolication development engineer intern with role API Developer, Experienced in REST and SOAP API integration, API testing with Postman, API Gateway API Authenticator, API transformation, and API Management using Axway API Management.
+- 📌 1 year experience as an software application development engineer intern with role API Developer, Experienced in REST and SOAP API integration, API testing with Postman, API Gateway API Authenticator, API transformation, and API Management using Axway API Management.
 - 📌 Experienced as a game tester and API tester. Have knowledge of manual and automation testing using selenium with java language, API testing using postman, functionality testing, and regression testing.
 - 📌 Experienced as IT Support. Have skills in IT Support, including troubleshooting hardware/software issues, network configuration, and user assistance.
 - 📌 A crypto and web3 enthusiast, I liked and entered the crypto market when I was still in high school at the end of 2019. And from 2022 until now I have always looked for new things and deepened my knowledge in blockchain technology to hone my skills in this field.
 
 ## The position I'm interested
 - API Developer
+- Bankend Developer
 - Software Quality Assurance
-- IT Support
+- Database Administrator
 - Blockchain Engineer
 
 
