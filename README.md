@@ -68,7 +68,14 @@ I'm Software Development Engineer and Web3 Enthusiast with experience in API Dev
 
 &nbsp;
 
-![audiansyah's Stats](https://github-readme-stats.vercel.app/api?username=audiansyah&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+# Github Stats
+
+<p align="left">
+<a href="https://github.com/audiansyah">
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=audiansyah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=audiansyah&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 &nbsp;
 &nbsp;
