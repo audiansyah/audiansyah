@@ -14,7 +14,7 @@ I'm Software Development Engineer and Web3 Enthusiast with experience in API Dev
 
 ## The position I'm interested
 - API Developer
-- Bankend Developer
+- Backend Developer
 - Software Quality Assurance
 - Database Administrator
 - Blockchain Engineer
@@ -24,9 +24,9 @@ I'm Software Development Engineer and Web3 Enthusiast with experience in API Dev
 <!-- [![My Skills](https://skillicons.dev/icons?i=py,selenium,firebase,gcp,azure,aws,kubernetes,postgres,linux,redhat,debian,ubuntu,bash,vim,jenkins,githubactions,github,git,docker,pycharm,vscode,postman,apple,androidstudio,windows,xd,stackoverflow,sklearn&perline=14)](https://skillicons.dev) -->
 
 ### Languages and Frameworks
-| Python | Java | Selenium | Pytest | Pycharm | JavaScript | Solodity |
+| Python | Java | PHP | Dart | Flutter | JavaScript | Solodity |
 |----------|----------|----------|----------|----------|----------|----------|
-| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg'> | 
+| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg'> | 
 
 ### Browser Testing
 | Chrome | Safari | Mozilla | Edge | Opera | 
@@ -34,13 +34,13 @@ I'm Software Development Engineer and Web3 Enthusiast with experience in API Dev
 | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/safari/safari-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ie10/ie10-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opera/opera-original-wordmark.svg'> |
 
 ### Issues Tracking and Platforms
-| Kubernetes | Rancher | Jira |
-|----------|----------|----------|
-| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rancher/rancher-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg'> | 
+| Kubernetes | Rancher | Jira | Selenium
+|----------|----------|----------|----------|
+| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rancher/rancher-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/selenium/jira/selenium-original-wordmark.svg'> | 
 
 ### Databases and Data Manipulation
-| Firestore | MongoDB | SQL Server | PostgreSQL | DBeaver | Anaconda | Jupyter | Kaggle |
-|----------|----------|----------|----------|----------|----------|----------|----------|
+| MongoDB | SQL Server | PostgreSQL | DBeaver | Anaconda | Jupyter | Kaggle |
+|----------|----------|----------|----------|----------|----------|----------|
 | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg'> |  
 
 ### Daily Tools
