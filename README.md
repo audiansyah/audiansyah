@@ -36,7 +36,7 @@ I'm Software Development Engineer and Web3 Enthusiast with experience in API Dev
 ### Issues Tracking and Platforms
 | Kubernetes | Rancher | Jira | Selenium
 |----------|----------|----------|----------|
-| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rancher/rancher-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/selenium/jira/selenium-original-wordmark.svg'> | 
+| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rancher/rancher-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/selenium/selenium/selenium-original-wordmark.svg'> | 
 
 ### Databases and Data Manipulation
 | MongoDB | SQL Server | PostgreSQL | DBeaver | Anaconda | Jupyter | Kaggle |
@@ -46,7 +46,7 @@ I'm Software Development Engineer and Web3 Enthusiast with experience in API Dev
 ### Daily Tools
 | Postman | Swagger | Git | VMWare | Linux | Adobe | Windows | Docker | GitHub | 
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|
-| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vmware/vmware-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows/widows-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg'> | 
+| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vmware/vmware-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows/widows-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg'> | 
 
 
 ## 📬 Get in Touch
