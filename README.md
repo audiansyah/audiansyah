@@ -24,9 +24,9 @@ I'm Software Development Engineer and Web3 Enthusiast with experience in API Dev
 <!-- [![My Skills](https://skillicons.dev/icons?i=py,selenium,firebase,gcp,azure,aws,kubernetes,postgres,linux,redhat,debian,ubuntu,bash,vim,jenkins,githubactions,github,git,docker,pycharm,vscode,postman,apple,androidstudio,windows,xd,stackoverflow,sklearn&perline=14)](https://skillicons.dev) -->
 
 ### Languages and Frameworks
-| Python | Java | PHP | Dart | Flutter | JavaScript | Solodity |
-|----------|----------|----------|----------|----------|----------|----------|
-| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg'> | 
+| Python | Java | PHP | Dart | Flutter | JavaScript | Solodity | Rust | Go |
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg'> |
 
 ### Browser Testing
 | Chrome | Safari | Mozilla | Edge | Opera | 
