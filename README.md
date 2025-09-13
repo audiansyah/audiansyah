@@ -2,8 +2,6 @@
 
 I'm Software Development Engineer and Web3 Enthusiast with experience in API Developer, Software testing, IT Support, Web and Mobile Developer. Experienced in API management, software testing, and IT infrastructure support, with hands-on experience in developing API Gateway Management, transforming REST and SOAP APIs, and implementing security policies. Skilled in manual and automation testing with Postman, Selenium, and Katalon, as well as proficient in Java, Python, JavaScript, SQL/NoSQL, and PHP. Passionate about delivering innovative, efficient, and secure software solutions while continuously improving technical and analytical capabilities. I believe in continuous learning and always look for ways to improve my skills, especially in software application development.
 
-I believe in continuous learning and always look for ways to improve my skills, especially in software application development.</p>
-
 
 ## 🚀 About Me
 
