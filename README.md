@@ -1,8 +1,8 @@
 # Hi, I'm Audiansyah! 👋
 
-I'm Software Development Engineer and Web3 Enthusiast with experience in API Developer, Software testing, IT Support, Web and Mobile Developer. possessing a strong foundation in Software Quality Assurance, Database Administration, API Development and backend engineer, and IT Support. Experienced in API management, software testing, and IT infrastructure support, with hands-on experience in developing API Gateway Management, transforming REST and SOAP APIs, and implementing security policies. Skilled in manual and automation testing using Selenium, Postman, and Katalon, ensuring system functionality, performance, and security through structured testing and API lifecycle management, with a deep understanding of SDLC methodologies. Proficient in SQL, Python, JavaScript, and database management tools for data processing and administration. Passionate about ensuring system functionality, performance, and security through structured testing and API lifecycle management. Highly analytical, detail-oriented, and committed to continuous learning to drive efficiency and innovation in IT and software development.
+I'm Software Development Engineer and Web3 Enthusiast with experience in API Developer, Software testing, IT Support, Web and Mobile Developer. Experienced in API management, software testing, and IT infrastructure support, with hands-on experience in developing API Gateway Management, transforming REST and SOAP APIs, and implementing security policies. Skilled in manual and automation testing with Postman, Selenium, and Katalon, as well as proficient in Java, Python, JavaScript, SQL/NoSQL, and PHP. Passionate about delivering innovative, efficient, and secure software solutions while continuously improving technical and analytical capabilities. I believe in continuous learning and always look for ways to improve my skills, especially in software application development.
 
- I’m looking to collaborate on anything!.
+I believe in continuous learning and always look for ways to improve my skills, especially in software application development.</p>
 
 
 ## 🚀 About Me
